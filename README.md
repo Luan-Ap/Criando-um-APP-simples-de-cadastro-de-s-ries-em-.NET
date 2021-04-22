@@ -18,7 +18,7 @@ A classe SerieRepositorio, como o nome já indica, serve como um repositório pa
 
 Por fim, mas não menos importante, a classe Program, que contém um menu com as funcionalidades que permitem o acesso aos métodos das outras classes.
 
-Fiz algumas alterações em relação ao trabalho feito pelo instrutor [Eliézer Zarpelão](https://github.com/elizarp), à quem agradeço muito pelos ensinamentos, adicionado funcionalides para converter string em int, verificar se já há séries inseridas e confirmar a exclusão de séries
+Fiz algumas alterações em relação ao trabalho feito pelo instrutor [Eliézer Zarpelão](https://github.com/elizarp), à quem agradeço muito pelos ensinamentos, adicionado funcionalidades para converter string em int, verificar se já há séries inseridas e confirmar a exclusão de séries.
 
 Agradeço muito à [**Digital Innovation One**](https://digitalinnovation.one/) pelo conteúdo e por esta oportunidade de aprendizado.
 
